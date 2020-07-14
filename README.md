@@ -22,4 +22,5 @@ python txttohandwriting.py
 ```
 
 ## Contributors:
-- [Sharanya Mukherjee](https://github.com/sharanya02)
+- [Sharanya Mukherjee](https://github.com/sharanya02)  (Primary Contributor)
+- [Projjal Gop](https://github.com/projjal1)   (Patches and Fixes)
